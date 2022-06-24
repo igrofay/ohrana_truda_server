@@ -1,0 +1,1 @@
+rootProject.name = "com.example.ohrana_truda_server"
